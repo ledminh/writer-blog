@@ -1,4 +1,4 @@
-import { getPostMetadata } from '@/lib/posts';
+iimport { getPostMetadata } from '../lib/posts';
 import Link from 'next/link';
 
 export default async function HomePage() {
