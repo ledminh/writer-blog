@@ -1,4 +1,4 @@
-import { getPostContent, getPostMetadata } from '@/lib/posts';
+import { getPostContent, getPostMetadata } from '../../../lib/posts';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import Link from 'next/link';
